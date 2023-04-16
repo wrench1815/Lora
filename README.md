@@ -5,7 +5,7 @@ A Collection Lora that i trained
 
 ## Luna Laurel
 
-[Download](https://)
+[Download](https://github.com/wrench1815/Lora/blob/main/Punishing%20Gray%20Raven/pgr_luna.safetensors)
 
 ### Preview
 ![Luna Laurel Preview 1](./assets//Punishing%20Gray%20Raven//pgr_luna/00000-2778405196.png)
